@@ -1,7 +1,7 @@
 # CalculadoraComplexa
 Calculadora Complexa feita em Java
 
-Nesse aplicativo básico de Calculadora Complexa com interface gráfica, um número é escolhido pelo usuário (através de um botão de rolagem) e após clicar no botão de 'Calcular', surgem os valores do
+Nesse programa básico de Calculadora Complexa com interface gráfica, um número é escolhido pelo usuário (através de um botão de rolagem) e após clicar no botão de 'Calcular', surgem os valores do
 Resto da divisão daquele número por 2, o número escolhido elevado ao cubo, a raiz quadrada dele, sua raíz cúbica e seu valor absoluto.
 
 
